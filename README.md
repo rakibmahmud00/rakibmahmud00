@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahmudrakib29@gmail.com**
 
-- 📄 Know about my experiences [https://rakibmahmud.netlify.app](https://rakibmahmud.netlify.app)
+- 📄 My all works here [https://rakibmahmud.netlify.app](https://rakibmahmud.netlify.app)
 
 - ⚡ Fun fact **I think I'm born to code**
 
